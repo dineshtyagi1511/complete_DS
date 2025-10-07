@@ -1,0 +1,2 @@
+Python File Handling Example
+Using read, write, and with context manager
